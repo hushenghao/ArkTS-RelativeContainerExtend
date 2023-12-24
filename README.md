@@ -1,6 +1,6 @@
-# 一个API让 HarmonyOS ArkTS 相对布局更好用
+# 让 HarmonyOS ArkTS 相对布局更好用
 
-前段时间 Harmony Next 不在兼容 Android 的消息满天飞，各个大厂也开始对纯血 HarmonyOS 进行适配了，普通开发者也可以下载 [DevEco Studio](https://developer.huawei.com/consumer/cn/deveco-studio/) 进行尝鲜，相信大部分同学已经尝过鲜了，甚至有一部分已经着手开始了适配计划了。
+前段时间 Harmony Next 不再兼容 Android 的消息满天飞，各个大厂也开始对纯血 HarmonyOS 进行适配了，普通开发者也可以下载 [DevEco Studio](https://developer.huawei.com/consumer/cn/deveco-studio/) 进行尝鲜，相信大部分同学已经尝过鲜了，甚至有一部分已经着手开始了适配计划了。
 
 现在 HarmonyOS 4.0 的一些 API 还不太成熟，第三方SDK也在开发中，想复刻成熟的原生应用可能为时尚早，不过我们用 ArkTS 来画页面和实现一些简单的业务逻辑还绰绰有余的
 。
