@@ -20,14 +20,6 @@ RelativeContainer() {
             center: { anchor: "__container__", align: VerticalAlign.Center },
             middle: { anchor: "__container__", align: HorizontalAlign.Center },
         })
-        .backgroundColor(Color.Red)
-
-    Text("Test")
-        .id("test")
-        .alignRules({
-            left: { anchor: "text", align: HorizontalAlign.Center },
-            top: { anchor: "text", align: VerticalAlign.Bottom }
-        })
 }
 .width('100%')
 .height('100%')
@@ -105,7 +97,7 @@ export function centerVerticalOf(id: string): VerticalRule {
   return { anchor: id, align: VerticalAlign.Center }
 }
 ```
-修改上面的代码
+修改上面Demo的代码
 
 ```ts
 // 别忘了导包
