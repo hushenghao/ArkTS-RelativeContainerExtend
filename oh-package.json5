@@ -1,7 +1,7 @@
 {
-  "name": "myapplication",
+  "name": "RelativeContainerExtend",
   "version": "1.0.0",
-  "description": "Please describe the basic information.",
+  "description": "ArkTS RelativeContainer extend",
   "main": "",
   "author": "",
   "license": "",

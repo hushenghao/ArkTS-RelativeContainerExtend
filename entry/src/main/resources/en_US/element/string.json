@@ -6,11 +6,11 @@
     },
     {
       "name": "EntryAbility_desc",
-      "value": "description"
+      "value": "ArkTS RelativeContainer extend"
     },
     {
       "name": "EntryAbility_label",
-      "value": "label"
+      "value": "RelativeContainerExtend"
     }
   ]
 }
